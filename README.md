@@ -8,9 +8,7 @@ O objetivo do projeto é conectar animais que precisam de um lar com pessoas dis
 
 # ✨ Funcionalidades
 
-✅ Listagem de animais disponíveis  
-✅ Filtro por categorias  
-✅ Busca por nome ou raça  
+✅ Listagem de animais disponíveis   
 ✅ Cards modernos e responsivos  
 ✅ Sessão "Como Funciona"  
 ✅ Sessão de contato  
@@ -29,10 +27,6 @@ O objetivo do projeto é conectar animais que precisam de um lar com pessoas dis
 ---
 
 # 🚀 Tecnologias Utilizadas
-
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,css,js" />
 
 </div>
 
