@@ -1,20 +1,75 @@
-<<<<<<< HEAD
-# React + Vite
+# 🐾 AdotePet
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Uma plataforma moderna e responsiva para adoção de animais, desenvolvida com **React**, **Vite** e **TailwindCSS**.
 
-Currently, two official plugins are available:
+O objetivo do projeto é conectar animais que precisam de um lar com pessoas dispostas a adotar e transformar vidas com amor e carinho ❤️
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+# ✨ Funcionalidades
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+✅ Listagem de animais disponíveis  
+✅ Filtro por categorias  
+✅ Busca por nome ou raça  
+✅ Cards modernos e responsivos  
+✅ Sessão "Como Funciona"  
+✅ Sessão de contato  
+✅ Layout totalmente responsivo  
+✅ Interface moderna com animações suaves  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# abrigo-animal-react
->>>>>>> 7f41cd8ff38c4d58821d10efe3ca4313b2c70ac6
+# 🐶 Categorias Disponíveis
+
+- Todos
+- Cães
+- Gatos
+- Coelhos
+
+---
+
+# 🚀 Tecnologias Utilizadas
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,css,js" />
+
+</div>
+
+- React.js
+- Vite
+- TailwindCSS
+- CSS3
+- JavaScript
+- Bootstrap Icons
+
+---
+
+# 📂 Estrutura do Projeto
+
+```bash
+src/
+│
+├── components/
+│   ├── Navbar.jsx
+│   ├── Hero.jsx
+│   ├── Filters.jsx
+│   ├── Footer.jsx
+│   ├── PetCard.jsx
+│   ├── SearchBar.jsx
+│   └── HowItWorks.jsx
+│
+├── sections/
+│   ├── Animals.jsx
+│   └── Contact.jsx
+│
+├── data/
+│   └── pets.js
+│
+├── styles/
+│   ├── global.css
+│   └── index.css
+│
+├── App.jsx
+├── main.jsx
+└── index.html
