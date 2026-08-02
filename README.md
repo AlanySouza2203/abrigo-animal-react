@@ -2,22 +2,29 @@
 
 Uma plataforma moderna e responsiva para adoção de animais, desenvolvida com **React**, **Vite** e **TailwindCSS**.
 
-O objetivo do projeto é conectar animais que precisam de um lar com pessoas dispostas a adotar e transformar vidas com amor e carinho ❤️
+O objetivo do projeto é conectar animais que precisam de um lar com pessoas dispostas a adotar e transformar vidas com amor e carinho ❤️.
 
 ---
 
-# ✨ Funcionalidades
+## 🌐 Acesse o Projeto
 
-✅ Listagem de animais disponíveis   
-✅ Cards modernos e responsivos  
-✅ Sessão "Como Funciona"  
-✅ Sessão de contato  
-✅ Layout totalmente responsivo  
-✅ Interface moderna com animações suaves  
+🔗 **Deploy:** https://abrigo-animal-react.vercel.app/
 
 ---
 
-# 🐶 Categorias Disponíveis
+## ✨ Funcionalidades
+
+- ✅ Listagem de animais disponíveis
+- ✅ Cards modernos e responsivos
+- ✅ Filtro por categorias
+- ✅ Sessão "Como Funciona"
+- ✅ Sessão de Contato
+- ✅ Layout totalmente responsivo
+- ✅ Interface moderna com animações suaves
+
+---
+
+## 🐶 Categorias Disponíveis
 
 - Todos
 - Cães
@@ -26,22 +33,20 @@ O objetivo do projeto é conectar animais que precisam de um lar com pessoas dis
 
 ---
 
-# 🚀 Tecnologias Utilizadas
-
-</div>
+## 🚀 Tecnologias Utilizadas
 
 - React.js
 - Vite
-- TailwindCSS
-- CSS3
+- Tailwind CSS
 - JavaScript
+- CSS3
 - Bootstrap Icons
 
 ---
 
-# 📂 Estrutura do Projeto
+## 📂 Estrutura do Projeto
 
-```bash
+```text
 src/
 │
 ├── components/
@@ -67,3 +72,54 @@ src/
 ├── App.jsx
 ├── main.jsx
 └── index.html
+```
+
+---
+
+## ▶️ Como Executar o Projeto
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/AlanySouza2203/abrigo-animal-react.git
+```
+
+Entre na pasta:
+
+```bash
+cd abrigo-animal-react
+```
+
+Instale as dependências:
+
+```bash
+npm install
+```
+
+Execute o projeto:
+
+```bash
+npm run dev
+```
+
+Para gerar a versão de produção:
+
+```bash
+npm run build
+```
+
+---
+
+## 📷 Demonstração
+
+Acesse a aplicação online:
+
+👉 https://abrigo-animal-react.vercel.app/
+
+---
+
+## 👩‍💻 Desenvolvido por
+
+**Alany Souza**
+
+GitHub: https://github.com/AlanySouza2203
